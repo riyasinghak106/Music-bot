@@ -1,2 +1,0 @@
-[phases.setup]
-nixPkgs = ["python313", "ffmpeg", "libopus", "libjpeg", "zlib", "freetype"]
